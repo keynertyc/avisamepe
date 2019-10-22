@@ -15,5 +15,5 @@ $ EDITOR=nano crontab -e
 
 Add new job (i.e every 5 minutes), argv: <sku> <min> <max> <email>
 ```sh
-*/5 * * * * php /home/keyner/avisame/index.php 48673233 600 800 keyner.peru@gmail.com
+*/5 * * * * php /home/keyner/avisamepe/index.php 48673233 600 800 keyner.peru@gmail.com
 ```
