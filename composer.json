@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fabpot/goutte": "^3.2",
+        "phpmailer/phpmailer": "^6.1",
+        "vlucas/phpdotenv": "^3.6"
+    }
+}
