@@ -3,7 +3,7 @@ Script to track products of Retailers like Saga Falabella, etc. Run with paramet
 
 Run:
 ```sh
-$ composer require install
+$ composer install
 $ cp .env.example .env
 ```
 Edit file .env with your SMTP Provider
